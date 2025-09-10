@@ -6,4 +6,6 @@
 » Apos finalizar o envio de todos os produtos, será armazenado um log dos produtos cadastrado, com essa informação ele abrirá Gmail, e enviará esse log para um destinátario de sua preferência.
 
 
-» Principais Frameworks: pyautogui - pandas - datetime - time
+» Principais Frameworks: pyautogui e pandas
+
+» As demais bibliotecas se encontram no arquivo "requirements.txt"
